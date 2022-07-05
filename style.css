@@ -52,6 +52,8 @@ hr {
     border-style: solid;
 }
 
+/* COLORI */
+
 /* Classe per colorazione blu */
 .blue {
     background-color: #47adf1;
@@ -65,6 +67,33 @@ hr {
     color: #c9ced3;
     border-color: #c9ced3;
 }
+
+/* Classe per la colorazione viola */
+.purple {
+    background-color: #9c72e4;
+}
+
+/* Classe per la colorazione verde */
+.green {
+    background-color: #6bc4ae;
+}
+
+/* Classe per la colorazione arancione */
+.orange {
+    background-color: #f29e33;
+}
+
+/* Classe per la colorazione rosa */
+.pink {
+    background-color: #d863a1;
+}
+
+/* Classe per la colorazione verde chiaro */
+.light-green {
+    background-color: #b0c926;
+}
+
+/* FINE COLORI */
 
 /* Classe per tutti i checkmark */
 .checkmark {
@@ -92,4 +121,5 @@ hr {
     border-radius: 20px;
 
     font-size: 10px;
+    color: white;
 }
