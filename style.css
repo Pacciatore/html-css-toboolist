@@ -65,3 +65,23 @@ hr {
     color: #c9ced3;
     border-color: #c9ced3;
 }
+
+/* Classe per tutti i checkmark */
+.checkmark {
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 1px 4px;
+
+    font-size: 10px;
+    font-weight: 800;
+}
+
+/* Classe per le spunte verdi */
+.done {
+    color: #6bc4ae;
+}
+
+/* Classe per le spunte rosse */
+.undone {
+    color: #eb5952;
+}
