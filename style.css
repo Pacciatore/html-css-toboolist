@@ -31,6 +31,33 @@ header>img {
 /* Contenitore del contenuto principale */
 main {
     margin: 2% 20%;
-    padding: 15px 40px;
     background-color: white;
+    padding: 15px 40px;
+}
+
+/* Stile linea */
+hr {
+    opacity: 0.2;
+}
+
+/* Classe dei bottoni */
+.button {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+/* Classe per colorazione blu */
+.blue {
+    background-color: #47adf1;
+    color: white;
+    border-color: #47adf1;
+}
+
+/* Classe per colorazione bianca */
+.white {
+    background-color: white;
+    color: #c9ced3;
+    border-color: #c9ced3;
 }
