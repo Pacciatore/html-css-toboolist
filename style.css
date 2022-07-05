@@ -85,3 +85,11 @@ hr {
 .undone {
     color: #eb5952;
 }
+
+/* Classe etichette delle task */
+.task-tag {
+    padding: 5px 10px;
+    border-radius: 20px;
+
+    font-size: 10px;
+}
