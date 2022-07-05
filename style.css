@@ -5,3 +5,25 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+
+/* Colorazione sfondo pagina */
+body {
+    background-color: #f6f8f9;
+}
+
+/* Contenitore logo e titolo */
+header {
+    background-color: white;
+    padding: 10px 25px;
+}
+
+/* Titolo */
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* Logo */
+header>img {
+    vertical-align: middle;
+}
