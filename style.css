@@ -32,6 +32,10 @@ header>img {
 main {
     margin: 2% 20%;
     background-color: white;
+}
+
+/* Gestione di ogni div presente */
+div {
     padding: 15px 40px;
 }
 
