@@ -44,6 +44,11 @@ hr {
     opacity: 0.2;
 }
 
+/* Formattazione delle righe della lista */
+p {
+    margin: 15px auto;
+}
+
 /* Classe dei bottoni */
 .button {
     padding: 5px 10px;
